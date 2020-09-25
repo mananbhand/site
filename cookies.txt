@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+easyonlineshopping.herokuapp.com	TRUE	/	FALSE	1999999999	sessionid	cr5hx73qomn290dusig5yt7w5xbwt02i
+easyonlineshopping.herokuapp.com	TRUE	/	FALSE	1999999999	csrftoken	tvmC38lLCau52IGZGvVujmWU3v61dCyQyXpHcR4VsQQNVgbe18ComoRJQknHe51V
+easyonlineshopping.herokuapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

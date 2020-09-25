@@ -1,0 +1,61 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Sep 2020 09:03:34 at https://easyonlineshopping.herokuapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://easyonlineshopping.herokuapp.com/ -O1 "D:\SITES\Measurement of Internet Traffic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:04:22	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/cart.html (from https://easyonlineshopping.herokuapp.com/)
+09:04:22	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/index.html (from https://easyonlineshopping.herokuapp.com/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/product-detail.html (from https://easyonlineshopping.herokuapp.com/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/blog-detail.html (from https://easyonlineshopping.herokuapp.com/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/shop/cart.html (from https://easyonlineshopping.herokuapp.com/shop/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/shop/index.html (from https://easyonlineshopping.herokuapp.com/shop/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/bags/cart.html (from https://easyonlineshopping.herokuapp.com/category/bags/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/bags/index.html (from https://easyonlineshopping.herokuapp.com/category/bags/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c1/cart.html (from https://easyonlineshopping.herokuapp.com/category/c1/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c1/index.html (from https://easyonlineshopping.herokuapp.com/category/c1/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c2/cart.html (from https://easyonlineshopping.herokuapp.com/category/c2/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c2/index.html (from https://easyonlineshopping.herokuapp.com/category/c2/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c3/cart.html (from https://easyonlineshopping.herokuapp.com/category/c3/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c3/index.html (from https://easyonlineshopping.herokuapp.com/category/c3/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c4/cart.html (from https://easyonlineshopping.herokuapp.com/category/c4/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/c4/index.html (from https://easyonlineshopping.herokuapp.com/category/c4/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/dresses/cart.html (from https://easyonlineshopping.herokuapp.com/category/dresses/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/dresses/index.html (from https://easyonlineshopping.herokuapp.com/category/dresses/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/watches/cart.html (from https://easyonlineshopping.herokuapp.com/category/watches/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/category/watches/index.html (from https://easyonlineshopping.herokuapp.com/category/watches/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/accounts/login/cart.html (from https://easyonlineshopping.herokuapp.com/accounts/login/)
+09:04:27	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/accounts/login/index.html (from https://easyonlineshopping.herokuapp.com/accounts/login/)
+09:04:27	Warning: 	Found for https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login
+09:04:27	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login to https://accounts.google.com/o/oauth2/auth?client_id=Client+ID&redirect_uri=https%3A%2F%2Feasyonlineshopping.herokuapp.com%2Faccounts%2Fgoogle%2Flogin%2Fcallback%2F&scope=profile&response_type=code&state=AO1E07YSgv8A
+09:04:28	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/accounts/signup/cart.html (from https://easyonlineshopping.herokuapp.com/accounts/signup/)
+09:04:28	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/accounts/signup/index.html (from https://easyonlineshopping.herokuapp.com/accounts/signup/)
+09:04:28	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/product/aaa/cart.html (from https://easyonlineshopping.herokuapp.com/product/aaa/)
+09:04:28	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/product/aaa/index.html (from https://easyonlineshopping.herokuapp.com/product/aaa/)
+09:04:28	Warning: 	Found for https://easyonlineshopping.herokuapp.com/add-to-cart/aaa/
+09:04:28	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/add-to-cart/aaa/ to /accounts/login/?next=/add-to-cart/aaa/
+09:04:28	Warning: 	Found for https://easyonlineshopping.herokuapp.com/remove-from-cart/aaa/
+09:04:28	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/remove-from-cart/aaa/ to /accounts/login/?next=/remove-from-cart/aaa/
+09:04:28	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/product/aaa/product-detail.html (from https://easyonlineshopping.herokuapp.com/product/aaa/)
+09:04:28	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/product/bbb/cart.html (from https://easyonlineshopping.herokuapp.com/product/bbb/)
+09:04:28	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/product/bbb/index.html (from https://easyonlineshopping.herokuapp.com/product/bbb/)
+09:04:28	Warning: 	Found for https://easyonlineshopping.herokuapp.com/add-to-cart/bbb/
+09:04:28	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/add-to-cart/bbb/ to /accounts/login/?next=/add-to-cart/bbb/
+09:04:28	Warning: 	Found for https://easyonlineshopping.herokuapp.com/remove-from-cart/bbb/
+09:04:28	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/remove-from-cart/bbb/ to /accounts/login/?next=/remove-from-cart/bbb/
+09:04:29	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/product/bbb/product-detail.html (from https://easyonlineshopping.herokuapp.com/product/bbb/)
+09:04:29	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/accounts/password/reset/cart.html (from https://easyonlineshopping.herokuapp.com/accounts/password/reset/)
+09:04:29	Error: 	"Not Found" (404) at link https://easyonlineshopping.herokuapp.com/accounts/password/reset/index.html (from https://easyonlineshopping.herokuapp.com/accounts/password/reset/)
+09:04:31	Warning: 	Found for https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fadd-to-cart%2Faaa%2F
+09:04:31	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fadd-to-cart%2Faaa%2F to https://accounts.google.com/o/oauth2/auth?client_id=Client+ID&redirect_uri=https%3A%2F%2Feasyonlineshopping.herokuapp.com%2Faccounts%2Fgoogle%2Flogin%2Fcallback%2F&scope=profile&response_type=code&state=AZCSMrUP1naJ
+09:04:32	Warning: 	Found for https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fremove-from-cart%2Faaa%2F
+09:04:32	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fremove-from-cart%2Faaa%2F to https://accounts.google.com/o/oauth2/auth?client_id=Client+ID&redirect_uri=https%3A%2F%2Feasyonlineshopping.herokuapp.com%2Faccounts%2Fgoogle%2Flogin%2Fcallback%2F&scope=profile&response_type=code&state=iv6XDrIsRpgq
+09:04:32	Warning: 	Found for https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fadd-to-cart%2Fbbb%2F
+09:04:32	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fadd-to-cart%2Fbbb%2F to https://accounts.google.com/o/oauth2/auth?client_id=Client+ID&redirect_uri=https%3A%2F%2Feasyonlineshopping.herokuapp.com%2Faccounts%2Fgoogle%2Flogin%2Fcallback%2F&scope=profile&response_type=code&state=BENZHgHRe0fQ
+09:04:32	Warning: 	Found for https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fremove-from-cart%2Fbbb%2F
+09:04:32	Warning: 	File has moved from https://easyonlineshopping.herokuapp.com/accounts/google/login/?process=login&next=%2Fremove-from-cart%2Fbbb%2F to https://accounts.google.com/o/oauth2/auth?client_id=Client+ID&redirect_uri=https%3A%2F%2Feasyonlineshopping.herokuapp.com%2Faccounts%2Fgoogle%2Flogin%2Fcallback%2F&scope=profile&response_type=code&state=I2xnQ46BekkD
+
+HTTrack Website Copier/3.49-2 mirror complete in 59 seconds : 164 links scanned, 122 files written (8380563 bytes overall) [8366439 bytes received at 141804 bytes/sec], 304951 bytes transferred using HTTP compression in 4 files, ratio 19%, 18.6 requests per connection
+(32 errors, 18 warnings, 0 messages)
